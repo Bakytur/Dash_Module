@@ -6,3 +6,4 @@ __pycache__
 /.env
 /code/models
 /code/__pycache__
+code/
